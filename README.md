@@ -23,5 +23,5 @@ Esse projeto foi criado para **aprender lógica de programação** e como usar o
 1. Tenha o **Python 3** instalado no computador.  
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/<seu-usuario>/calculadora-python.git# Calculadora-Python
+   git clone https://github.com/<ELIABE0307>/calculadora-python.git# Calculadora-Python
 Uma Calculadora simples em Python para operações básicas.
